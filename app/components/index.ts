@@ -1,0 +1,7 @@
+export {default as Navbar} from "./Navbar"
+export {default as ProdDetail} from "./ProdDetail"
+export {default as ProdLightBox} from "./ProdLightBox"
+export {default as Product} from "./Product"
+export {default as HighLightComp} from "./HighLightComp"
+export {default as MobileLightBox} from "./MobileLightBox"
+export {default as CartCard} from "./CartCard"
