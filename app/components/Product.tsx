@@ -1,6 +1,6 @@
 import ProdDetail from "./ProdDetail";
 import { MobileLightBox, ProdLightBox } from ".";
-import { cartInterface } from "../App";
+import { cartInterface } from "../page";
 
 interface productInterface {
 	setHighLightBox: React.Dispatch<React.SetStateAction<boolean>>;
